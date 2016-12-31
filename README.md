@@ -1,2 +1,2 @@
 # TestGitHub
-Github tutorial and Learning
+This is a testing only. How can a Git work
